@@ -252,6 +252,7 @@
 /* Begin XCBuildConfiguration section */
 		EC2A082B1DDEA5C5008C62D0 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 8F688743A0DAFC26572DDBA6 /* Pods-PrivateCocoaPods.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				CLANG_ANALYZER_NONNULL = YES;
@@ -302,6 +303,7 @@
 		};
 		EC2A082C1DDEA5C5008C62D0 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 030D72435767C3B91CFB7B42 /* Pods-PrivateCocoaPods.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				CLANG_ANALYZER_NONNULL = YES;
